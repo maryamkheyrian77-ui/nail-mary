@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>لینک‌های مریم خیریان</title>
+
+<style>
+body{
+    font-family:Tahoma,sans-serif;
+    background:linear-gradient(135deg,#ffd6e7,#fff0f7);
+    text-align:center;
+    padding:40px;
+}
+
+.card{
+    max-width:600px;
+    margin:auto;
+    background:white;
+    border-radius:20px;
+    padding:30px;
+    box-shadow:0 4px 20px rgba(0,0,0,.1);
+}
+
+h1{
+    color:#d63384;
+}
+
+.btn{
+    display:block;
+    margin:15px auto;
+    padding:15px;
+    border-radius:12px;
+    text-decoration:none;
+    font-weight:bold;
+    color:white;
+}
+
+.instagram{
+    background:#e1306c;
+}
+
+.copybtn{
+    background:#3399ff;
+    border:none;
+    cursor:pointer;
+    width:100%;
+    font-size:16px;
+}
+
+.cardnum{
+    background:#f8f9fa;
+    padding:12px;
+    border-radius:10px;
+    font-size:20px;
+    margin:15px 0;
+    direction:ltr;
+}
+</style>
+
+<script>
+function copyCard(){
+    navigator.clipboard.writeText('6219861428408230');
+    alert('شماره کارت کپی شد');
+}
+</script>
+
+</head>
+
+<body>
+
+<div class="card">
+
+<h1>🌸 لینک‌های مریم خیریان 🌸</h1>
+
+<a class="btn instagram"
+href="https://instagram.com/nail.maryamkhairy"
+target="_blank">
+ورود به پیج اینستاگرام @nail.maryamkhairy
+</a>
+
+<div class="cardnum">
+6219861428408230
+</div>
+
+<button class="btn copybtn" onclick="copyCard()">
+کپی شماره کارت بلو بانک
+</button>
+
+<p>
+به نام مریم خیریان
+</p>
+
+</div>
+
+</body>
+</html>
